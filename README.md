@@ -1,22 +1,10 @@
-My personal website
+Bootstap-Sass Windows 7 Theme
 ===================
-
-Current Work to Be Done
------------------------
-Improve the look on mobile devices and at smaller screen sizes.
-
-Domain
-------
-http://www.heyimlucas.com
 
 Synopsis
 --------
-This is the HTML, CSS, SCSS, JS, jQuery, and all other code and assets behind my personal website. 
+This is a website theme built to model the look and feel of Windows 7. It's created using Bootstrap with Sass. By editing the variables and adding extra CSS, this is made possible.
 
 Motivation
 ----------
-This project was for fun. The site houses examples of my work in all categories of life in hopes that someone might find it interesting. I wanted to focus on making a site that was
-* Beautiful and intuitive
-* Responsive to different screen sizes
-* Resource light and easily loaded
-* Scalable and easy to modify
+This project was for work. It's made to help users feel immediately comfortable with a web application since many have dealt with Windows 7 at some time in the recent past. It's an experimental side project to make progress on during slow work days.
